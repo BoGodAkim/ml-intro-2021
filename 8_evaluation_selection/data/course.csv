@@ -1,0 +1,36 @@
+courseId,createdDate,updatedDate,name,year,primarySkillId,primarySkillName,locationName,alias,completed,description,descriptionUrl,planned,courseStartDate,courseEndDate,fullName,registrationEndDate,inviteOnly
+16,2020-01-27 06:15:21.813898,2020-06-02 09:49:08.084615,RSS React 2020,,javascript,JavaScript,,react-2020-Q1,t,Курс по React/Redux,,f,2020-02-05 06:12:15.345+00,2020-03-18 06:12:18.391+00,RSS React 2020,2020-02-09 06:12:31.757+00,t
+23,2020-02-25 09:28:08.842897,2020-07-28 06:07:15.142387,TEST COURSE,,javascript,JavaScript,,test-course,f,TEST COURSE,,f,2020-02-25 09:28:00.105+00,2020-08-06 09:28:01.698+00,TEST COURSE,,t
+18,2020-02-11 08:40:16.050523,2020-09-10 18:30:58.028305,iOS 2020,,ios-obj-c,iOS Objective-C,,ios-2020,f,iOS 2020 course,,f,2020-02-17 08:39:56.164+00,2020-06-01 08:40:00.109+00,Rolling Scopes iOS 2020,2020-03-08 09:33:55.611+00,f
+9,2019-05-24 15:20:38.564615,2019-09-09 16:14:35.099569,RS 2018 Q1,2018.0,javascript,JavaScript,Minsk,rs-2018-q1,t,2018,,f,2017-12-31 21:00:00.01+00,2018-06-30 21:00:00.01+00,Rolling Scopes School 2018 Q1,,f
+6,2019-05-22 11:56:03.343815,2019-09-09 16:14:58.34156,RS 2016 Q3,2016.0,javascript,JavaScript,Minsk,rs-2016-q3,t,RS 2016 Q3,,f,2016-09-01 19:48:14.839+00,2016-12-31 19:48:14.839+00,Rolling Scopes School 2016 Q3,,f
+5,2019-05-15 14:25:29.875928,2019-09-09 16:15:05.821534,RS 2015 Q1,2015.0,javascript,JavaScript,Minsk,rs-2015-q1,t,RS 2015 Q1,,f,2015-01-01 19:48:45.209+00,2015-06-30 19:48:45.209+00,Rolling Scopes School 2015 Q1,,f
+4,2019-05-15 14:25:00.254528,2019-09-09 16:15:29.980035,RS 2016 Q1,2016.0,javascript,JavaScript,Minsk,rs-2016-q1,t,RS 2016 Q1,,f,2016-01-01 19:49:05.026+00,2016-06-30 19:49:05.026+00,Rolling Scopes School 2016 Q1,,f
+2,2019-04-17 11:41:21.396686,2019-09-09 16:15:23.708058,RS 2018 Q3,2018.0,javascript,JavaScript,Minsk,rs-2018-q3,t,RS 2018 Q3,,f,2018-09-01 19:47:14.081+00,2018-12-31 19:47:14.081+00,Rolling Scopes School 2018 Q3,,f
+1,2019-04-17 11:41:21.396686,2019-09-09 16:15:18.068023,RS 2019 Q1,2019.0,javascript,JavaScript,Minsk,rs-2019-q1,t,Rolling Scopes School 2018 Q1,https://github.com/rolling-scopes-school/lectures,f,2019-01-01 00:49:13.461+00,2019-08-25 00:49:13.461+00,Rolling Scopes School 2019 Q1,,f
+10,2019-07-08 12:55:53.666184,2019-10-03 15:44:20.448036,RS-UZ 2019,2019.0,javascript,JavaScript,Tashkent,rs-uz-2019-q3,t,Uzbekistan JS,,f,2019-07-01 00:44:52.891+00,2019-09-30 00:44:52.891+00,Rolling Scopes School 2019: Uzbekistan,,f
+19,2020-02-11 08:40:58.387803,2020-09-10 18:31:03.311121,Android 2020,,android-kotlin,Android Kotlin,,android-2020,f,Android 2020,,f,2020-02-17 08:40:50.115+00,2020-06-01 08:40:51.765+00,Rolling Scopes Android 2020,2020-03-08 09:34:23.882+00,f
+12,2019-08-29 07:26:02.025829,2019-10-25 17:20:30.9813,RS-ST 2019 Q1,,javascript,JavaScript,,rs-st-2019-q1,t,RS Short Track 2019 Q1,,f,2019-04-08 07:23:45.643+00,2019-07-10 07:23:45.643+00,Rolling Scopes School 2019 Q1: Short Track,,t
+14,2019-10-24 10:00:46.296231,2020-02-07 08:51:36.59706,ST 2019 Q3,,javascript,JavaScript,,st-2019-q3,t,Short Track 2019Q3,,f,2019-10-28 09:59:47.095+00,2020-01-31 09:59:47.095+00,Rolling Scopes School: Short Track 2019 Q3,2019-10-23 10:00:06.576+00,t
+11,2019-08-27 07:36:13.565873,2020-03-13 15:39:41.477995,RS 2019 Q3,,javascript,JavaScript,,rs-2019-q3,t,RS 2019 Q3,,f,2019-09-09 07:35:20.981+00,2020-01-31 07:35:20.981+00,Rolling Scopes School 2019 Q3,,f
+17,2020-01-27 12:42:50.862147,2020-04-22 05:57:56.400589,RSS Angular 2020 Q1,,javascript,JavaScript,,angular-2020-Q1,t, Курс по Angular,,f,2020-02-05 12:42:29.294+00,2020-03-18 12:42:31.38+00,RSS Angular 2020 Q1,2020-02-09 12:42:36.062+00,t
+27,2020-02-17 07:47:16.72,2020-08-17 07:10:17.024397,JS Fundamentals,,javascript,JavaScript,,js-fundamentals,f,JS Fundamentals,,f,2020-05-01 09:06:34.293+00,2020-07-31 09:06:39.744+00,JS Fundamentals,,t
+20,2020-02-17 07:47:16.720205,2020-03-23 11:31:46.894703,The Rolling Scopes Poland,,javascript,JavaScript,,rss-pl-2020-q1,f,"Javascript/Front-end Mentoring Program in Poland.
+Free | Online | in English",,f,2020-03-05 07:46:38.048+00,2020-07-31 06:46:42.768+00,JS/FE Mentoring Program in Poland,2020-03-22 07:47:02.88+00,t
+13,2019-10-21 08:05:31.068833,2020-08-24 11:56:19.468768,RS 2020 Q1,,javascript,JavaScript,,rs-2020-q1,t,"Javascript / Frontend Курс.
+Вводное занятие - 2 февраля
+Организационный вебинар начнется 2 февраля в 12:00 по минскому времени (GMT+3). Мы расскажем о процессе обучения в RS School и выдадим задания для первого этапа обучения.
+
+Вебинар будет транслироваться на канале https://www.youtube.com/c/rollingscopesschool.
+Рекомендуем подписаться на канал и нажать колокольчик, чтобы не пропустить начало трансляции. 
+
+Если у вас не будет возможности присоединиться к онлайн-трансляции, не переживайте! 
+Запись вебинара будет размещена на канале в открытом доступе.
+
+Описание тренинга
+Основной сайт: https://rs.school/js/
+
+Подробная информация о школе:  https://docs.rs.school",,f,2020-02-02 09:01:56.398+00,2020-07-31 08:01:56.398+00,Rolling Scopes School 2020 Q1: JavaScript/Front-end,2020-03-31 08:40:46.24+00,f
+21,2020-02-18 08:35:17.347051,2020-07-27 09:04:06.867118,NodeJS 2020 Q1,,nodejs,Node.js,,nodejs-2020-q1,t,NodeJS 2020 Q1	,,f,2020-03-23 08:34:47.525+00,2020-04-30 07:34:53.383+00,Rolling Scopes NodeJS 2020 Q1	,2020-03-29 07:35:00.935+00,t
+29,2020-01-27 06:15:21.814,2020-07-30 07:08:19.192459,RSS React 2020 Q3,,javascript,JavaScript,,react-2020-Q3,f,Курс по React/Redux,,f,2020-07-27 11:54:03.727+00,2020-09-16 11:54:04.46+00,RSS React 2020 Q3,2020-08-08 11:54:10.218+00,f
+28,2020-01-27 12:42:50.862,2020-09-30 10:19:17.632882,RSS Angular 2020 Q3,,javascript,JavaScript,,angular-2020-Q3,t,Курс по Angular,,f,2020-07-27 11:49:08.068+00,2020-09-16 11:49:24.921+00,RSS Angular 2020 Q3,2020-08-08 11:49:30.256+00,f
